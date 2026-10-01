@@ -1,4 +1,4 @@
-# Quick-Commmerce Data Analysis Dashboard by Abhinav Dubey
+# Quick-Commmerce Data Analysis Dashboard 
 
 ## Project Overview
 
